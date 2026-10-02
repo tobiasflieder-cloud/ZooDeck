@@ -1,0 +1,27 @@
+ZOODECK ALS APP INSTALLIEREN
+============================
+
+1. Online stellen (einmalig, ca. 2 Minuten, kostenlos)
+   - Diese ZIP-Datei entpacken. Du bekommst den Ordner "zoodeck-app".
+   - Am Computer https://app.netlify.com/drop öffnen.
+   - Den Ordner "zoodeck-app" ins Browserfenster ziehen.
+   - Netlify zeigt dir eine Adresse wie https://irgendwas-123.netlify.app
+   - Tipp: Mit einem kostenlosen Netlify-Konto bleibt die Seite dauerhaft
+     online und du kannst die Adresse umbenennen (z.B. zoodeck-tobi.netlify.app).
+
+2. Aufs Handy holen
+   iPhone:  Adresse in Safari öffnen -> Teilen-Symbol -> "Zum Home-Bildschirm".
+   Android: Adresse in Chrome öffnen -> Menü (drei Punkte) -> "App installieren"
+            bzw. "Zum Startbildschirm hinzufügen".
+   Danach startet Zoodeck wie eine App: eigenes Symbol, Vollbild, auch offline.
+
+3. Neue Version einspielen
+   - Bei Netlify in deiner Seite unter "Deploys" den neuen Ordner hineinziehen.
+   - Die App lädt die neue Version beim nächsten Start im Hintergrund und zeigt
+     sie ab dem übernächsten Start an.
+
+Wichtig zum Spielstand
+   - Speicherplätze, Highscores und Verbesserungen liegen auf dem jeweiligen Gerät.
+   - iPhone: Die installierte App hat einen eigenen Speicher, getrennt von Safari.
+     Spiel also immer über das App-Symbol, nicht über den Browser.
+   - Wenn du die App vom Home-Bildschirm löschst, ist der Spielstand weg.
